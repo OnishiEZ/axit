@@ -77,7 +77,7 @@ header nav ul a:hover{
 }
 
 .site-name{
-    background: url(img/1.jpg);
+    background: url(../img/1.jpg);
     background-size: cover;
 }
 
